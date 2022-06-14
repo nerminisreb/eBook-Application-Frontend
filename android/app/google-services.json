@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436067714165",
+    "project_id": "ebook-c199d",
+    "storage_bucket": "ebook-c199d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436067714165:android:8e6941e6cf4390dbb1e43c",
+        "android_client_info": {
+          "package_name": "com.areejnetwork.ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436067714165-g6p30opf8i6m4mgmeg57cd9fsj50cl9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2afQ0_mp_gQpIyjKnZ_JjDHMTUX2mi_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436067714165-g6p30opf8i6m4mgmeg57cd9fsj50cl9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
